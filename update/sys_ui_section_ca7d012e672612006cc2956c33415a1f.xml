@@ -4,98 +4,112 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>
             <position>0</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-04-06 15:59:30</sys_created_on>
-            <sys_id>2e4b55f2676212006cc2956c33415a25</sys_id>
+            <sys_created_by>larry.lob</sys_created_by>
+            <sys_created_on>2016-05-17 21:04:16</sys_created_on>
+            <sys_id>723a2504812312007f44a03bc7240344</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="sn_order_tracking_order" sys_domain="global" view="Default view">ca7d012e672612006cc2956c33415a1f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-04-06 15:59:30</sys_updated_on>
+            <sys_updated_by>larry.lob</sys_updated_by>
+            <sys_updated_on>2016-05-17 21:04:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>order_id</element>
             <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-04-06 15:59:30</sys_created_on>
-            <sys_id>ae4b55f2676212006cc2956c33415a25</sys_id>
+            <sys_created_by>larry.lob</sys_created_by>
+            <sys_created_on>2016-05-17 21:04:16</sys_created_on>
+            <sys_id>f23a2504812312007f44a03bc7240344</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="sn_order_tracking_order" sys_domain="global" view="Default view">ca7d012e672612006cc2956c33415a1f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-04-06 15:59:30</sys_updated_on>
+            <sys_updated_by>larry.lob</sys_updated_by>
+            <sys_updated_on>2016-05-17 21:04:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>product</element>
             <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-04-06 15:59:30</sys_created_on>
-            <sys_id>224b55f2676212006cc2956c33415a26</sys_id>
+            <sys_created_by>larry.lob</sys_created_by>
+            <sys_created_on>2016-05-17 21:04:16</sys_created_on>
+            <sys_id>763a2504812312007f44a03bc7240344</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="sn_order_tracking_order" sys_domain="global" view="Default view">ca7d012e672612006cc2956c33415a1f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-04-06 15:59:30</sys_updated_on>
+            <sys_updated_by>larry.lob</sys_updated_by>
+            <sys_updated_on>2016-05-17 21:04:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>order_date</element>
             <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-04-06 15:59:30</sys_created_on>
-            <sys_id>a24b55f2676212006cc2956c33415a26</sys_id>
+            <sys_created_by>larry.lob</sys_created_by>
+            <sys_created_on>2016-05-17 21:04:16</sys_created_on>
+            <sys_id>f63a2504812312007f44a03bc7240344</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="sn_order_tracking_order" sys_domain="global" view="Default view">ca7d012e672612006cc2956c33415a1f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-04-06 15:59:30</sys_updated_on>
+            <sys_updated_by>larry.lob</sys_updated_by>
+            <sys_updated_on>2016-05-17 21:04:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>status</element>
+            <element>.split</element>
             <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-04-06 15:59:30</sys_created_on>
-            <sys_id>264b55f2676212006cc2956c33415a26</sys_id>
+            <sys_created_by>larry.lob</sys_created_by>
+            <sys_created_on>2016-05-17 21:04:16</sys_created_on>
+            <sys_id>7a3a2504812312007f44a03bc7240344</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="sn_order_tracking_order" sys_domain="global" view="Default view">ca7d012e672612006cc2956c33415a1f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-04-06 15:59:30</sys_updated_on>
+            <sys_updated_by>larry.lob</sys_updated_by>
+            <sys_updated_on>2016-05-17 21:04:16</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>5</position>
+            <sys_created_by>larry.lob</sys_created_by>
+            <sys_created_on>2016-05-17 21:04:16</sys_created_on>
+            <sys_id>fa3a2504812312007f44a03bc7240344</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_order_tracking_order" sys_domain="global" view="Default view">ca7d012e672612006cc2956c33415a1f</sys_ui_section>
+            <sys_updated_by>larry.lob</sys_updated_by>
+            <sys_updated_on>2016-05-17 21:04:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>completion_date</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-04-06 15:59:30</sys_created_on>
-            <sys_id>a64b55f2676212006cc2956c33415a26</sys_id>
+            <position>6</position>
+            <sys_created_by>larry.lob</sys_created_by>
+            <sys_created_on>2016-05-17 21:04:16</sys_created_on>
+            <sys_id>7e3a2504812312007f44a03bc7240344</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="sn_order_tracking_order" sys_domain="global" view="Default view">ca7d012e672612006cc2956c33415a1f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-04-06 15:59:30</sys_updated_on>
+            <sys_updated_by>larry.lob</sys_updated_by>
+            <sys_updated_on>2016-05-17 21:04:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>buyer</element>
-            <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-04-06 16:00:31</sys_created_on>
-            <sys_id>9d8b95f2676212006cc2956c33415a9e</sys_id>
+            <position>7</position>
+            <sys_created_by>larry.lob</sys_created_by>
+            <sys_created_on>2016-05-17 21:04:16</sys_created_on>
+            <sys_id>fe3a2504812312007f44a03bc7240344</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="sn_order_tracking_order" sys_domain="global" view="Default view">ca7d012e672612006cc2956c33415a1f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-04-06 16:00:31</sys_updated_on>
+            <sys_updated_by>larry.lob</sys_updated_by>
+            <sys_updated_on>2016-05-17 21:04:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -111,7 +125,7 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>ca7d012e672612006cc2956c33415a1f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_name>sn_order_tracking_order</sys_name>
             <sys_overrides/>
             <sys_package display_value="Order Tracking System" source="sn_order_tracking">a40c09ea672612006cc2956c33415a73</sys_package>
@@ -119,8 +133,8 @@
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Order Tracking System">a40c09ea672612006cc2956c33415a73</sys_scope>
             <sys_update_name>sys_ui_section_ca7d012e672612006cc2956c33415a1f</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-04-05 20:20:38</sys_updated_on>
+            <sys_updated_by>larry.lob</sys_updated_by>
+            <sys_updated_on>2016-05-17 21:04:16</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>
